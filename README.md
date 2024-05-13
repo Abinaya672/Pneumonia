@@ -1,4 +1,5 @@
-# pneu
+#Pneumonia detection using CXR images
+
 
 A new Flutter project.
 
